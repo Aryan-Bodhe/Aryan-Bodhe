@@ -118,7 +118,7 @@
 
 ---
 
-## 📫 Connect with Me
+## 📫 Let's Get In Touch
 <p align="center">
   <a href="https://www.linkedin.com/in/aryan-bodhe/">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin" alt="LinkedIn">
@@ -130,5 +130,3 @@
 </p>
 
 ---
-
-<p align="center"><i>Always learning. Always building. 🚀</i></p>
