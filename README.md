@@ -19,7 +19,7 @@
 - ⚙️ Currently building a **Stock Market Simulator** using Python, PostgreSQL.
 - 💰 Created 3 **Statistical Personal Finance Tools** and took them to **production in 3 months** during my first internship.
 - 📝 Previously built and trained CNNs for handwritten math equation solver, winning 3rd prize in hackathon.
-- 📫 Reach me at: aryanbodhe7705@gmail.com
+- 📫 Reach me at: aryan.bodhe.career@gmail.com
 
 ---
 
